@@ -1,2 +1,2 @@
-# photoWebsite
-Photo purchasing website for Database Systems Lab
+# photo-website
+Design for Photo purchasing website in Database Systems Lab
